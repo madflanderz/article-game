@@ -1,0 +1,18 @@
+.words {
+  font-size: 3rem;
+  margin: 5rem auto;
+  display: flex;
+  user-select: none;
+}
+
+.article {
+  text-align: right;
+  min-width: 20rem;
+  margin-right: 2rem;
+  flex: 2;
+}
+
+.word {
+  flex: 3;
+  text-align: left;
+}
